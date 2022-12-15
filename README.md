@@ -5,10 +5,7 @@ The main aim of this project is to built a good recommender system (RS) for book
 ![image](https://user-images.githubusercontent.com/88799249/155769464-4ae168f7-90b3-402f-bfad-9a8fe1cea43d.png)
 
 Recommender systems have become a part of daily life for users of Amazon and Netflix and even social media. While some sites might use these systems to improve the customer experience (if you liked movie A, you might like movie B) or increase sales (customers who bought product C also bought product D), others are focused on customized advertising and suggestive marketing. As a book lover and former book store manager, I have always wondered where I can find good book recommendations that are both personalized to my interests and also capable of introducing me to new authors and genres. The purpose of this project is to create just such a recommender system (RS).
-# Dataset link�
-The dataset can be downloaded from the following link---![image](https://user-images.githubusercontent.com/88799249/155766744-518f69c1-4ef6-490f-82a7-4cafe73fa8ce.png)
 
-https://drive.google.com/drive/u/0/folders/1LQZRVw0qnoAoSsIa3vgHMX2nD0oj1fel
 # Data Cleaning and Pre-Processing:-
 ![image](https://user-images.githubusercontent.com/88799249/155766150-2821ace4-030c-4c2c-9dab-dd943ba4e23c.png)
 
@@ -78,7 +75,6 @@ The different tools that we have used in this project are as follows--
 7. KNN
 
 
-![image](https://github.com/KasumiL5x/book-recommendation-system/blob/master/screenshots/hhgttg.gif?raw=true)
 
 # Conclusions:-
  ![image](https://user-images.githubusercontent.com/88799249/157096139-bf2dafe9-4dde-4d6b-9632-8c76a6e8c6a5.png)
